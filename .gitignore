@@ -1,0 +1,16 @@
+.DS_Store
+
+.idea/
+hooks/
+lib/
+node_modules/
+platforms/
+tmp/
+typings/
+dist/
+
+*.js
+*.map
+*.log
+*.metadata.json
+
